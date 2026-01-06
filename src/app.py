@@ -56,7 +56,7 @@ activities = {
         "schedule": "Tuesdays, 3:00 PM - 4:30 PM",
         "max_participants": 20,
         "participants": []
-    }
+    },
     "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
@@ -76,6 +76,7 @@ activities = {
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     }
 }
+
 
 
 @app.get("/")
